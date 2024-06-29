@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Website</title>
+  <link rel="stylesheet" href="bg.css">
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <h1>moj</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#info">Info</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <h2>Traveling to a Beautiful Place</h2>
+        <p>Explore the breathtaking landscapes of mountains and rivers...</p>
+      </div>
+    </section>
+
+    <section class="info">
+      <div class="info-content">
+        <div class="info-left">
+          <img src="matheran.jpg" alt="Matheran" class="place-image">
+        </div>
+        <div class="info-right">
+          <h3>About Matheran</h3>
+          <p>Matheran is a hill station and a municipal council in the Karjat taluka of the Raigad district located in the Indian state of Maharashtra.</p>
+          <p>The Matheran Hill Railway was built in 1907 by Sir Adamjee Peerbhoy and covers a distance of 20 km (12 mi), through forest land. The railway was inspected by UNESCO officials, but failed to make it to the list of the World Heritage Sites.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="info">
+      <div class="info-content">
+        <div class="info-left">
+          <img src="agra.jpg" alt="Agra" class="place-image">
+        </div>
+        <div class="info-right">
+          <h3>About Agra</h3>
+          <p>Agra is a city in northern India’s Uttar Pradesh state. It's home to the iconic Taj Mahal, a mausoleum built for the Mughal ruler Shah Jahan’s wife, Mumtaz Mahal.</p>
+          <p>The imposing main building features a massive dome and intricately carved white marble inlaid with precious stones. This is set behind a reflecting pool inside a courtyard defined by 4 minarets.</p>
+          <p>The Taj Mahal is flanked by other impressive Mughal-era buildings, including the red sandstone Agra Fort, which is situated across the Yamuna River.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="info">
+      <div class="info-content">
+        <div class="info-left">
+          <img src="jaipur.jpg" alt="Jaipur" class="place-image">
+        </div>
+        <div class="info-right">
+          <h3>About Jaipur</h3>
+          <p>Jaipur is the capital and largest city of the Indian state of Rajasthan. It was founded in 1727 by Maharaja Sawai Jai Singh II, the ruler of Amber. Jaipur is also known as the Pink City due to the distinctive pink color of its buildings.</p>
+          <p>One of the major attractions in Jaipur is the Hawa Mahal (Palace of Winds), a five-story palace constructed of pink sandstone in the form of a honeycomb with 953 small windows. It was built to allow royal ladies to observe everyday life and processions in the street below without being seen.</p>
+          <p>Another iconic landmark is the Amer Fort, located in the Amer town just outside Jaipur. This majestic fort, built from red sandstone and marble, overlooks Maota Lake and is known for its artistic Hindu style elements.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="info">
+      <div class="info-content">
+        <div class="info-left">
+          <img src="kerala.jpg" alt="Kerala" class="place-image">
+        </div>
+        <div class="info-right">
+          <h3>About Kerala</h3>
+          <p>Kerala, often referred to as "God's Own Country," is a state on the southwestern coast of India. It is known for its palm-lined beaches, backwaters, and lush greenery. Kerala is also famous for its diverse cultural heritage, vibrant festivals, and delicious cuisine.</p>
+          <p>One of the major attractions in Kerala is the backwaters, a network of interconnected canals, rivers, lakes, and estuaries that are lined with coconut trees and dotted with traditional houseboats. A visit to the backwaters offers a serene and picturesque experience of rural Kerala life.</p>
+          <p>Another highlight of Kerala is the hill station of Munnar, renowned for its tea plantations, misty hills, and cool climate. Visitors can explore the lush green tea gardens, trek through scenic trails, and enjoy breathtaking views of the Western Ghats.</p>
+          <p>Additionally, Kerala is home to several wildlife sanctuaries and national parks, such as Periyar National Park, where tourists can spot elephants, tigers, and various species of birds in their natural habitats.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="info">
+      <div class="info-content">
+        <div class="info-left">
+          <img src="varanasi.jpg" alt="Varanasi" class="place-image">
+        </div>
+        <div class="info-right">
+          <h3>About Varanasi</h3>
+          <p>Varanasi, also known as Banaras or Kashi, is one of the oldest continually inhabited cities in the world. Located on the banks of the River Ganges in Uttar Pradesh, Varanasi is considered one of the holiest cities in Hinduism.</p>
+          <p>The city is known for its ghats, which are steps leading down to the Ganges River where pilgrims perform ritual ablutions. The Dashashwamedh Ghat is particularly famous for its evening Ganga Aarti ceremony, where priests perform prayers with fire and chanting.</p>
+          <p>Varanasi is also a center for learning and the arts, with numerous temples, mosques, and historic buildings showcasing a blend of Hindu, Islamic, and Buddhist architecture. The Kashi Vishwanath Temple dedicated to Lord Shiva and the Sarnath Stupa, where Buddha gave his first sermon, are among its notable landmarks.</p>
+          <p>Visitors to Varanasi can experience the rich cultural tapestry of the city, participate in spiritual practices, explore its narrow winding lanes filled with shops selling silk sarees and handicrafts, and immerse themselves in its vibrant and ancient atmosphere.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="info2">
+      <div class="info-content2">
+        <div class="info-left">
+          <img src="harshagad.jpg" alt="Harshagad" class="place-image">
+        </div>
+        <div class="info-right">
+          <h3>About Harshagad</h3>
+          <p>Harshagad is a fort located 40 km from Nashik City, 48 km from Igatpuri, 40 km from Ghoti in Nashik district, of Maharashtra, India.</p>
+          <p>It is an important fort in Nashik district, and was constructed to overlook the trade route through Gonda Ghat. It receives many visitors because of its peculiar rock-cut steps.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="raju">
+    <p> jobs was temporary but LIFE is permanent</p>
+    <p>so, explore the world that way bigger than your thought</p><br><br>
+    </div>
+    <p>&copy; 2024 moj. All rights reserved.</p><br>
+  </footer>
+
+</body>
+</html>

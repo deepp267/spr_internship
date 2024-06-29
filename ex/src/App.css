@@ -1,0 +1,22 @@
+.wrapper{
+
+width:auto;
+font-family: 'Times New Roman', Times, serif;
+font-size: 180%;
+align-items: center;
+text-align: center;
+justify-content: center;
+
+}
+
+.r{
+  text-align: center;
+  align-items:last baseline;
+  font-size: 70%;
+  border-top-left-radius: 5px;
+  width: 650px;
+  height: 25px;
+  border-radius: 19px;  
+  border-top-right-radius: 10px;
+  border-color: rgb(0, 0, 0);
+}
